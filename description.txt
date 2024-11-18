@@ -1,0 +1,8 @@
+Adds RGB Effects to your Wooting Keyboard during the game. 
+
+Currently only highligts the Quick Heal key when on low health.
+
+Made as a proof of concept.
+
+Special Thanks to simon-wh for the Wooting.NET wrapper library.
+And to the Wooting Team for their RGB SDK and amazing keyboards :)
